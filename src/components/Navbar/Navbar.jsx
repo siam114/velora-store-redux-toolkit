@@ -12,6 +12,7 @@ const Navbar = () => {
         <div>
             <img className='h-28 w-full' src={logo} alt="store" />
         </div>
+
         <div className='flex flex-row items-center '>
             <button className='mr-4 text-2xl font-bold tracking-normal leading-none text-center'>Logout</button>
         </div>
