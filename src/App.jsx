@@ -1,8 +1,10 @@
+import Main from "./components/main/Main"
+
 function App() {
 
   return (
-    <div>
-        <h2 className="text-4xl font-bold">Velora Store</h2>
+    <div className="App">
+        <Main/>
     </div>
   )
 }
