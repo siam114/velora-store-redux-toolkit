@@ -59,6 +59,7 @@ const Navbar = () => {
             </p>
           </div>
         </div>
+        
       </div>
       <div className="text-white bg-black p-4 w-full flex justify-around">
         <div className="text-base font-medium tracking-normal leading-none text-center">50% OFF</div>
