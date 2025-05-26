@@ -55,10 +55,15 @@ const Navbar = () => {
               />
             </svg>
              <p className="ml-2 text-base font-medium tracking-normal leading-none text-center">
-              Shopping Bag
+              Shopping bag
             </p>
           </div>
         </div>
+      </div>
+      <div className="text-white bg-black p-4 w-full flex justify-around">
+        <div className="text-base font-medium tracking-normal leading-none text-center">50% OFF</div>
+        <div className="text-base font-medium tracking-normal leading-none text-center">Free shipping and return</div>
+        <div className="text-base font-medium tracking-normal leading-none text-center">Different payment methods</div>
       </div>
     </>
   );
