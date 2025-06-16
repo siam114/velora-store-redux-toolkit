@@ -1,7 +1,7 @@
 import { createSlice } from '@reduxjs/toolkit'
 
 export const sliderSlice = createSlice({
-    nane : 'slider',
+    name : 'slider',
     initialState: {
         value: 0,
         length: 4,
